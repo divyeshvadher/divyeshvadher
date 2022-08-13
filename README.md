@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyeshvadher
-- 👀 I’m interested in ...Android Development and Competitive Coding.
+- 👀 I’m interested in ...Android Development.
 - 🌱 I’m currently learning ...Data Structure and Algorithm using java and c++.
 - 💞️ I’m looking to collaborate on ...Internship
 - 📫 How to reach me ...you can reach me at LinkedIn https://www.linkedin.com/in/imdivyeshvadher
