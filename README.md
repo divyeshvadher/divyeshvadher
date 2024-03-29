@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyeshvadher
-- 👀 I’m interested in ... Cyber Security and ethical hacking.
-- 🌱 I’m currently learning ... ethical hacking essential, backend development.
-- 💞️ I’m looking to collaborate on ...Internship
+- 👀 I’m interested in ... Cyber Security, and backend development.
+- 🌱 I’m currently learning ... backend development using Django Framework, bug bounty.
+- 💞️ I’m looking to collaborate on ...Starups
 - 📫 How to reach me ...you can reach me at LinkedIn https://www.linkedin.com/in/imdivyeshvadher
 
 <!---
