@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyesh Vadher</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Developer+%7C+Cybersecurity+Analyst;Secure+Web+Apps+%7C+Malware+Detection;AI-Powered+Projects+%7C+Real-World+Tools;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Software+Developer+%7C+Cybersecurity+Analyst;Secure+Web+Apps+%7C+Malware+Detection;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,7 +46,6 @@ LangGraph, CrewAI, LlamaIndex, OpenAI API, Agentic Workflows
 
 #### 💻 Software & Web Development
 - **PitchSync** – A full-stack platform for connecting startup founders with investors. Secure auth, dynamic dashboards, Supabase integration.
-- **FitAdmin** – SaaS platform for gym owner admin management, built for real-world needs and scalable expansion.
 - **Silai Sahayak** – Tailor management web app with AI-powered body measurement (React Native + Supabase).
 
 #### 🔐 Cybersecurity & Security Tools
