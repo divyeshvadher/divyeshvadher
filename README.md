@@ -8,13 +8,13 @@
 
 ### 👋 About Me – Bridging Software Development & Cybersecurity
 
-Hi, I’m **Divyesh Vadher** — a curious builder at the intersection of **software development** and **cybersecurity**. I specialize in building secure, scalable backend systems using tools like **Django**, **Supabase**, and **PostgreSQL**, while also developing tools for **phishing analysis**, **malware detection**, and **email forensics**.
+Hi, I’m **Divyesh Vadher** — a curious builder at the intersection of **software development** and **cybersecurity**. I specialise in building secure, scalable backend systems using tools like **Django**, **Supabase**, and **PostgreSQL**, while also developing tools for **phishing analysis**, **malware detection**, and **email forensics**.
 
-As a developer, I’ve built **full-stack platforms**, **SaaS apps**, and **API-driven products** that emphasize clean architecture and real-world utility. My projects like **PitchSync** and **Silai Sahayak** reflect my product-driven mindset and ability to ship.
+As a developer, I’ve built **full-stack platforms**, **SaaS apps**, and **API-driven products** that emphasise clean architecture and real-world utility. My projects like **PitchSync** and **Silai Sahayak** reflect my product-driven mindset and ability to ship.
 
 On the security side, I’ve worked inside **SOC environments**, built tools for **heuristic malware detection**, and contributed to reverse-engineering Android APKs and **phishing email automation**. My security work enhances my development approach by embedding **security by design** into everything I build.
 
-> Whether it’s writing production-grade backend code or analyzing threat vectors in a live environment, I bring a well-rounded, hands-on approach to solving problems with both **precision** and **practicality**.
+> Whether it’s writing production-grade backend code or analysing threat vectors in a live environment, I bring a well-rounded, hands-on approach to solving problems with both **precision** and **practicality**.
 
 ---
 
