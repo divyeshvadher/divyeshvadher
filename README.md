@@ -69,7 +69,7 @@ LangGraph, CrewAI, LlamaIndex, OpenAI API, Agentic Workflows
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://linkedin.com/in/imdivyeshvadher)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/divyeshvadher)  
-📧 Email: vadherdivyesh5@gmail.com
+📧 Email: divyeshvadher782@gmail.com
 
 ---
 
